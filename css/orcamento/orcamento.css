@@ -158,7 +158,7 @@
     }
 }
 
-@media (max-width: 800) {
+@media (max-width: 800px) {
     .orcamento {
         grid-template-columns: 1fr;
     }
